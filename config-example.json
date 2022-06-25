@@ -1,9 +1,9 @@
 {
-    "token": "The bot token",
-    "clientID": "The bot's ID",
+    "token": "OTY3MTY5NzAzNjI3ODc0MzU0.GX-cJz.zR8O2G6qg0aSTdA36vehZdgmLd6BOUTJqtLuWI",
+    "clientID": "967169703627874354,
     "guildID": "The ID of the server you are deploying to",
     "ownerID": [
-      "An array of owner user IDs, separated by commas"
+      "695748053658763305"
     ],
     "embedfooterText": "Embed footer text",
     "reportWebhook": "The webhook URL for reporting domains",
